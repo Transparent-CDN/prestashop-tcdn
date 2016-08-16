@@ -1,4 +1,6 @@
 # prestashop-tcdn
 Módulo de cacheo para prestashop
-== Instalación ==
+
+## Instalación
+
 Ver PDF adjunto.
